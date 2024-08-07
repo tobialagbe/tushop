@@ -16,22 +16,6 @@ The Job Selection Problem involves selecting a subset of non-overlapping jobs to
 - **Language**: JavaScript
 - **Framework**: Express.js
 
-### Project Structure
-
-.
-├── jobs_selection_problem
-│ ├── app.js
-│ ├── package.json
-│ ├── controllers
-│ │ └── jobController.js
-│ ├── models
-│ │ └── job.js
-│ ├── routes
-│ │ └── jobRoutes.js
-│ ├── services
-│ │ └── jobService.js
-│ └── utils
-│ └── timeUtils.js
 
 ### How to Run
 
@@ -76,27 +60,6 @@ The Goodies Distribution Problem involves distributing a set of goodies among em
 - **Language**: Typescript
 - **Framework**: Express.js
 
-### Project Structure
-
-.
-├── goodies_distribution_problem
-│   ├── src
-│   │   ├── app.ts
-│   │   ├── controllers
-│   │   │   └── goodieController.ts
-│   │   ├── models
-│   │   │   └── goodie.ts
-│   │   ├── routes
-│   │   │   └── goodieRoutes.ts
-│   │   ├── services
-│   │   │   └── goodieService.ts
-│   │   ├── utils
-│   │   │   └── fileUtils.ts
-│   │   └── index.ts
-│   ├── package.json
-│   ├── tsconfig.json
-│   └── tslint.json
-
 
 ### How to Run
 
@@ -137,10 +100,3 @@ curl -X POST http://localhost:3000/api/goodies -H "Content-Type: application/jso
 ```
 
 
-
-# Repository Structure
-.
-├── jobs_selection_problem
-│   └── [Job Selection Problem files and folders]
-└── goodies_distribution_problem
-    └── [Goodies Distribution Problem files and folders]

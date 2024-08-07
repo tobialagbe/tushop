@@ -1,5 +1,10 @@
 # Job Selection and Goodies Distribution Problems
 
+## video link
+https://www.awesomescreenshot.com/video/30291799?key=505fc037bdc47c7f9ac0ec1ae775c962
+
+video is also in the root folder (video-Coding-Assessment.webm)
+
 This repository contains two separate projects aimed at solving two different problems:
 
 1. **Job Selection Problem** (JavaScript)
